@@ -555,7 +555,7 @@ width: 30px;
     }
 
     .deal-box.small p {
-        font-size: 0.6rem;
+        font-size: 1.0rem;
     }
 
     .deal-box.small span {
@@ -612,8 +612,8 @@ width: 30px;
     height: 100%;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-   justify-content: flex-start;
+    align-items: center;
+   justify-content: center;
     padding: 15px; 
     color: white; 
 }
@@ -686,19 +686,19 @@ width: 30px;
 .deal-box1.small1 .left .product {
     margin-top: -25px;
     margin-bottom: 5px;
-    font-size: 0.8rem;
+    font-size: 1.0rem;
 }
 
 .deal-box1.small1 .left .price {
-    font-size: 0.6rem;
+    font-size: 0.8rem;
     color: #8B96A5;
 }
 
 /* Right side (image) */
 .deal-box1.small1 .right {
     flex-shrink: 0;
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     margin: -7px;
     margin-top: 25px;
     display: flex;
@@ -722,8 +722,8 @@ width: 30px;
     height: 100%;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-   justify-content: flex-start;
+    align-items: center;
+   justify-content: center;
     padding: 15px; 
     color: white; 
 }
@@ -936,7 +936,7 @@ width: 30px;
     padding-top: 20px;
 }
 .items .item .clothes img {
-    height: 80px;
+    height: 100px;
     width: 80px;
 }
 
@@ -944,15 +944,21 @@ width: 30px;
 .items .item .detail{
     margin-top: 20px;
     margin-left: 10px;
+    text-align: center;
+    justify-content: center;
 }
 
 .items .item .detail span {
-    font-size: 0.9rem;
+    font-size: 1.1rem;
+    text-align: center;
+    justify-content: center;
 }
 
 .items .item .detail p {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     color: #8B96A5;
+    text-align: center;
+    justify-content: center;
 }
 
 

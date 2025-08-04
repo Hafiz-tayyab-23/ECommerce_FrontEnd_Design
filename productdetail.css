@@ -575,15 +575,14 @@ main {
     
 }
 .section3 .container {
-    background-color: white;
-    display: flex;
-    border: 1px solid #DEE2E7;
-    gap: 10px;
-    margin: 0 50px 0 50px;
+    background-color: #fff;
+    margin: 0 auto;
     width: 90%;
-    height: 90%; 
+    height: 90%;
+    border: 1px solid #DEE2E7;
     border-radius: 4px;
     padding: 10px;
+    box-sizing: border-box;
 }
 
 .section3 .container .box1 {

@@ -1,7 +1,3 @@
-Here's a **refined and professional version** of your `README.md` for the **E-Commerce Website Project** — polished for clarity, structure, and tone:
-
----
-
 # 🛍️ E-Commerce Website Project (Desktop Only)
 
 > **Note:** This website is currently designed for **desktop view only** and does not support mobile or tablet responsiveness.
@@ -72,7 +68,3 @@ This project was developed during my internship at **Developer Hub Corporation**
 * 🔧 **Design and assets** were provided by the company.
 * ⏳ Due to time constraints, the focus was on delivering a **polished desktop experience**.
 * 📱 Responsive design for mobile/tablet is planned for future development.
-
-
-
-Let me know if you'd like a version that includes images, GitHub badge shields, or sections like "Installation" for future deployment.
